@@ -120,3 +120,4 @@ p multi_dimensional_sum(arr_2)    # => 24
 # grid = Array.new(3, Array.new(3)) !== Array.new(3) { Array.new(3) }  Try running and modifying some parts
 
 # bundle exec rspec for running all the tests. Make sure to arrange your file in lib folder and tests in spec. 
+# reverse_each for reversing a method
